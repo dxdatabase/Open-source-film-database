@@ -1,0 +1,125 @@
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+
+body {
+  font-family: 'Open Sans', 'sans-serif';
+  background-color: #fff;
+  color: #444;
+}
+
+h1, p {
+  margin: 0 0 1em 0;
+}
+
+  .wrapper {
+  max-width: 940px;
+  margin: 0 20px;
+  display: grid;
+  grid-gap: 10px;
+}
+
+
+@media screen and (min-width: 750px) {
+
+  /* no grid support? */
+  .dxblock {
+    float: left;
+  }
+
+  .filmblock {
+    float: right;
+  }
+
+  .wrapper {
+    margin: 0 auto;
+    grid-template-columns: 1fr 1fr;
+  }
+  
+  .header, .footer {
+    grid-column: 1 / -1;
+    /* needed for the floated layout */
+    clear: both;
+  }
+
+.found {
+    /* needed for the floated layout */
+      background-color: #FFF;
+ }
+  
+  .header {
+      background-image:url(header.jpg);
+        color: #FFF;
+  }
+}
+
+.wrapper > * {
+  background-color: #DDD;
+  border-radius: 5px;
+  padding: 20px;
+  /* font-size: 150%; */
+  /* needed for the floated layout*/
+  margin-bottom: 10px;
+}
+
+/* We need to set the widths used on floated items back to auto, and remove the bottom margin as when we have grid we have gaps. */
+@supports (display: grid) {
+  .wrapper > * {
+    width: auto;
+    margin: 0;
+  }
+}  
+    
+h1 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 28px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 12px;
+    text-shadow: 0.1em 0.1em 0.2em black
+}
+h3 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	line-height: 25.4px;
+    text-align: center
+}
+p, li {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+blockquote {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 21px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 30px;
+}
+pre {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 18.5667px;
+}
+.donation {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 8px;
+	font-style: normal;
+	font-variant: normal;
+}
+
+
+}
+
