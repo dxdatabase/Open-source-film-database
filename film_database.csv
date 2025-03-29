@@ -707,9 +707,9 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;Agfa-Gevaert Osray RPI;Xray film;Agfa-Gevaert;;;;;;0;
 ;;Agfa-Gevaert Osray T4;Xray film;Agfa-Gevaert;;;;;;0;
 ;;Agfa-Karat Isopan F ;;Agfa;;;;;;0;AgfaKaratIsopanF.jpg
-1171;017711;"AgfaPhoto APX 100 (""New Emulsion"" on box) #APX100";Kentmere 100;Kentmere;3;Made in EU;2012 ?;2013 ?;Lupus Imaging & Media;0;APX100AgfaNewEmul.jpg
+1771;017711;"AgfaPhoto APX 100 (""New Emulsion"" on box) #APX100";Kentmere 100;Kentmere;3;Made in EU;2012 ?;2013 ?;Lupus Imaging & Media;0;APX100AgfaNewEmul.jpg
 0023;000234;AgfaPhoto APX 100 (New) #APX100;Same code as original APX100. Last batch of real APX;Agfa;2;Made in Germany;2006 ?;~2012 ?;Lupus Imaging & Media;0;APX100Agfaphoto.jpg
-1171;017711;AgfaPhoto APX 100 (New) #APX100;Kentmere 100;Kentmere;3;Made in EU;2013 ?;;Lupus Imaging & Media;2;APX100Agfaphoto.jpg
+1771;017711;AgfaPhoto APX 100 (New) #APX100;Kentmere 100;Kentmere;3;Made in EU;2013 ?;;Lupus Imaging & Media;2;APX100Agfaphoto.jpg
 1771;017712;"AgfaPhoto APX 400 (""New Emulsion"" on box) #APX400";Kentmere 400;Kentmere;3;Made in EU;2013 ?;2014 ?;Lupus Imaging & Media;0;APX400AgfaNewEmul.jpg
 1771;017712;AgfaPhoto APX 400 (New) #APX400;Kentmere 400;Kentmere;3;Made in EU;2014 ?;;Lupus Imaging & Media;2;APX400Agfaphoto.jpg
 ;;AgfaPhoto Color 400;Orwo NC400 ?;;1;Made in Germany;2024 ?;;Lupus Imaging & Media;1;AgfaphotoColor400.jpg
@@ -812,7 +812,7 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;Amaki Dreamy Blue 50;Bluish film, only in Japan;;;;2018 ?;2018 ?;Amaki Ichigo Photo Office;0;
 ;;Amaki Nostalgie Red 100;Inverted film, limited edition only in Japan;;;;2018 ?;2018 ?;Amaki Ichigo Photo Office;0;
 ;;Amaki Nostalgie Red 400;Inverted film, limited edition only in Japan;;;;2018 ?;2018 ?;Amaki Ichigo Photo Office;0;
-0214;002743;Amcolor Colour Print Film ISO 100;Agfa Color XRG 100;Agfa;3;Made in Germany;;;AmCal;0;
+0274;002743;Amcolor Colour Print Film ISO 100;Agfa Color XRG 100;Agfa;3;Made in Germany;;;AmCal;0;
 1843;018433;Amcolor Colour Print Film ISO 100;Agfa Color XRG 100;Agfa;3;Made in Germany;;;AmCal;0;
 1843;018523;Amcolor Colour Print Film ISO 100;PERUTZ SC 100 Color (Agfacolor Vista);Agfa;3;Made in Germany;;;AmCal;0;
 ;;Amcolor Colour Print Film ISO 200;;;;Made in Germany;;;AmCal;0;
@@ -1209,7 +1209,7 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;Casino Beau Temps 100 C-41;Konica VX100 Super ?;;1;;;;;0;
 0454;004541;Casino Temps Clair 200 C-41;Konica VX200 Super;;4;Made in Japan;;;;0;Casino200.jpg
 ;;CatLABS X FILM 320 (135) #X320;135 only : Kodak 5222 Double-X on edge of the film…;;4;Made in USA;Mid 2019;2022 ?;CatLABS;0;CatlabsXfilm320.jpg
-1773;017713;CatLABS X FILM 320 PRO (135 & 120) #X320;135 & 120. Kentmere 400 DX code on 135 films, but developing times not identical… And too thin to be Kentmere.;;1;Made in USA;Spet 2022;;CatLABS;2;CatLABSx320pro.jpg
+1771;017713;CatLABS X FILM 320 PRO (135 & 120) #X320;135 & 120. Kentmere 400 DX code on 135 films, but developing times not identical… And too thin to be Kentmere.;;1;Made in USA;Spet 2022;;CatLABS;2;CatLABSx320pro.jpg
 ;;CatLABS X FILM 80 (120) 1st batch #X80 GP3;120, 4x5 & 8x10 only, in Sanghai GP3 paper. Emulsion and support look like GP3… Shanghai GP3 in a fancy box.;Shanggong Shanghai Photosensitive material factory ?;3;Made in China ?;March 2019;Mid 2019;CatLABS;0;CatlabsXfilm80.jpg
 ;;CatLABS X FILM 80 (120) 2d batch #X80 GP3;120, 4x5 & 8x10 only. Still Shanghai GP3 in a fancy box ?;Shanggong Shanghai Photosensitive material factory ?;3;Made in China ?;Dec 2019;;CatLABS;2;CatlabsXfilm80.jpg
 ;;CEA Docuscreen G #xray x-ray;X-ray, sheets;;;;;;CEA, Sweden;1;
@@ -1793,8 +1793,8 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;Euro Activ Color ISO 400 (triangle box) #euroactive;;;;Made In UE;;;Euro Activ Combi & Co, UE (Ringfoto ?);0;
 ;;Euro Activ Color ISO 400 #euroactive;;;;Made In UE;;;Euro Activ Combi & Co, UE (Ringfoto ?);0;EuroActiv400multi.jpg
 ;;Euro Print 100 (Yellow box) #Europrint;Solaris Color FG Plus 100;;2;;;;;0;EuroPrint100.jpg
-1389;013980;Euro Print 200 (White box) #Europrint;Solaris Color FG Plus 200;;2;;;;;0;Europrint200white.jpg
-1389;013980;Euro Print 200 (Yellow box) #Europrint;Solaris Color FG Plus 200;;3;;;;;0;Europrint200.jpg
+1398;013980;Euro Print 200 (White box) #Europrint;Solaris Color FG Plus 200;;2;;;;;0;Europrint200white.jpg
+1398;013980;Euro Print 200 (Yellow box) #Europrint;Solaris Color FG Plus 200;;3;;;;;0;Europrint200.jpg
 ;;Euro Print 400 (Yellow box) #Europrint;Solaris Color FG Plus 400;;2;;;;;0;EuroPrint400.jpg
 ;;EuroActive AC100;Agfacolor HDC;Agfa-Gevaert;2;;1997;;Ringfoto;0;
 ;;EuroActive AC200;Agfacolor HDC;Agfa-Gevaert;2;;1997;;Ringfoto;0;
@@ -3714,7 +3714,7 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;Kodak Color Plus 100 Colorplus Russia;;Kodak;;;1999 ?;2007 ?;;0;KodakColorplus100russ.jpg
 1270;712704;Kodak Color Plus 200 Colorplus;Russian edition ?;Kodak;;;;;;1;ColorPlusRu.jpg
 1271;512713;Kodak Color Plus 200 Colorplus (Actual);Similar to ProFoto (or VR200?);Kodak Industrie;;No country of origin indicated on the box…;;;Kodak;2;ColorPlus.jpg
-1270;912714;Kodak Color Plus 200 Colorplus (Actual);Similar to ProFoto (or VR200?);Kodak Industrie;;No country of origin indicated on the box…;;;Kodak;2;ColorPlus.jpg
+1271;912714;Kodak Color Plus 200 Colorplus (Actual);Similar to ProFoto (or VR200?);Kodak Industrie;;No country of origin indicated on the box…;;;Kodak;2;ColorPlus.jpg
 1271;912714;Kodak Color Plus 200 Colorplus (Candy pack);Kodacolor VR 200 derivative ?;Kodak Industrie;;No country of origin indicated on the box…;;;Kodak;2;KodakColorPlusCandy.jpg
 1271;912714;Kodak Color Plus 200 Colorplus (First edition, French version);;Kodak Industrie;;Made in France (Chalon sur saône);;;Kodak;0;KodakColorPlusFR.jpg
 1550;015504;Kodak Color Plus 200 Colorplus (First edition);Kodacolor VR 200 ? Only sold in emerging market but imported worldwide.;Eastmann Kodak;2;Made in USA and finished in Mexico;;;Kodak;0;ColorPlus1er.jpg
@@ -4578,7 +4578,7 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 1322;013220;Kodak Kodacolor Gold 400 – 5097;;;;;Early 90’s ?;;;1;
 1287;012874;Kodak Kodacolor Gold 400 Gen 1 (First Kodacolor Gold) 400-1 GC;Formerly Kodacolor VR-G 200;;;;1989;1991;;1;KodakGold2400old.jpg
 1303;013034;Kodak Kodacolor Gold 400 Gen 2 – 400-2;;;;;90’s ?;;;0;
-1292;013034;Kodak Kodacolor Gold 400 Gen 2 – 5097 / 5397;;;;;90’s ?;;;0;
+1303;013034;Kodak Kodacolor Gold 400 Gen 2 – 5097 / 5397;;;;;90’s ?;;;0;
 1303;013034;Kodak Kodacolor Gold 400 standard base (Gen 5?) - Code : 5097 – GC;Similar to Ektacolor Pro Gold 400GPY ?;;;;;;;0;
 2066;020660;Kodak Kodacolor II ASA 100 - Code : 5035;Process C-41. Film speed increased to ASA 100. Replaced by Kodacolor VR100;;;;~1976;1983;;0;KodacolorII.jpg
 2066;;Kodak Kodacolor II ASA 80 - Code : 6014;Same code as old Verichrome. Not the same film ! Process Flexicolor (early C-41);;;;110 format only : 1972, all : 1973;~1976;;0;KodacolorII.jpg
@@ -5595,7 +5595,7 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 1539;015390;Kodak SUPER GOLD 400 Film #supergold;;;;;;;;1;KodakSuperGold400.jpg
 1527;015270;Kodak SUPER GOLD 400 Film GC-400 #supergold;;;;;2000’s ?;;;1;KodakSuperGold400.jpg
 1316;113163;Kodak SUPER GOLD 400 Film GC-400 #supergold;;;;;;;;1;KodakSuperGold400.jpg
-1337;013340;Kodak SUPER GOLD 400 Gen 5 400-5 #supergold;;;;;;;;1;KodakSuperGold400.jpg
+1334;013340;Kodak SUPER GOLD 400 Gen 5 400-5 #supergold;;;;;;;;1;KodakSuperGold400.jpg
 ;;Kodak Super Ortho Press - Code : 6147;Base for Plus-X dev ? Same code…;Kodak UK ?;;;1938;1956;;0;
 ;;Kodak Super Panchro Press Film – Code 6128;;Kodak;;;1938;;;0;
 ;;Kodak Super Panchro Press Film Type B – Code 6146 ;Improved Panchro press ? Only sheets;Kodak;;;1940;;;0;KodakSuperPanchroPressTypeB.jpg
@@ -8268,7 +8268,7 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;Tudor XLG 200 #Tudorcolor XLG200;Scotch Color EXL plus;3M (Italy);2;;1996;;Tudor Photographic Group, UK;0;
 0140;001404;Tudor XLS 100 #Tudorcolor XLS100;Fuji;;1;;;;Tudor, GB;0;TudorXLS100.jpg
 0625;606253;Tudor XLS 200 #Tudorcolor XLS200;Fujicolor 200;;3;;;;Tudor, GB;0;
-1841;018513;TudorColor XDT 200 Colour Print Film XDT200;Agfa / Perutz SC 200-2;Agfa;4;Made in EC;;;Tudor, GB;0;Tudorcolor100.jpg
+1851;018513;TudorColor XDT 200 Colour Print Film XDT200;Agfa / Perutz SC 200-2;Agfa;4;Made in EC;;;Tudor, GB;0;Tudorcolor100.jpg
 ;;Tura 17U Dia B&W;;;;made in Germany ?;;;Turaphot;0;
 ;;Tura Black & White B/W 400 C41 #B&W C-41 BW400;B&W chromogenic. Agfa Vario-XL ?;Agfa-Gevaert ?;1;;90’s ?;;Tura GmbH;0;TuraC41BW400.jpg
 ;;Tura Color Negative Film CN400;Only bulk ? Rebranded film…;;;;2010’s;;PHOTO STAR GmbH, Germany;0;
