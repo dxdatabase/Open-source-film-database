@@ -827,7 +827,7 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;Amersham Hyperfilm ECL;Double-coated film for blue and green light chemiluminescence Western blot systems;;;;;;Cytiva (Formerly GE Healthcare Life Sciences);1;
 ;;Amersham Hyperfilm MP;Intended for radiometric or chemiluminescent applications;;;;;;Cytiva (Formerly GE Healthcare Life Sciences);1;
 ;;Amoa Panchro Film;;;;;;;;0;AmoaPanchro.jpg
-;;Analogue Wonderland WonderPan 400;Pushed FP4+ ??;;1;; June 2023;;Analogue Wonderland;1;Wonderpan.jpg
+;;Analogue Wonderland WonderPan 400;Pushed FP4+ ??;;1;; June 2023;;Analogue Wonderland;0;Wonderpan.jpg
 ;;ANALOGUELOVER GALAXY FILM ISO 400;Cheap film with pre-exposed galaxies…;;;;;;Analoguelover/the35mm ?;1;
 ;;ANALOGUELOVER SMOKY B&W;Cheap film with pre-exposed smoke…;;;;;;Analoguelover/the35mm ?;1;
 ;;ANALOGUELOVER SMOKY COLOR;Cheap film with pre-exposed smoke…;;;;;;Analoguelover/the35mm ?;1;
@@ -1091,7 +1091,8 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 1396;013967;"Black & white can ""High Quality COLOR NEGATIVE FILM"" 400";Solaris Color FG400;Ferrania;3;Film from Italy, Spooled in China;;;;0;HighQUalityColorNEg400.jpg
 1850;018503;Black can COULOUR NEGATIVE FILM ISO 400;Perutz Primera 400 / Agfa Vista 400;;3;;;;Fletchers Photographics;0;
 ;;Black's 400 UHR Blacks;;;;;;;Black Photo Corporation Markham, Canada;0;
-0140;701403;Black's Astral 100 ISO;Fujicolor Superia 100 / HR100;;3;;;;Black Photo Corporation Markham, Canada;0;
+0626;706263;Black's Astral 100 ISO;Fujicolor Superia 100 / HR100;;3;;;;Black Photo Corporation Markham, Canada;0;
+0140;701403;Black's Astral 100 ISO Premium;Fujicolor Superia 100 / HR100;;3;;;;Black Photo Corporation Markham, Canada;0;
 1310;701310;Black's Astral 200 ISO;UNCERTAIN DX NUMBER… Fujicolor Superia 200 / HR200;;2;;;;Black Photo Corporation Markham, Canada;0;
 ;;Black's Astral 400 ISO;Fujicolor Superia 400 / HR400;;1;;;;Black Photo Corporation Markham, Canada;0;Blacks400.jpg
 ;;Black's Color Print Film ISO 400 Blacks;;;;;;;Black Photo Corporation Markham, Canada;0;
@@ -1158,6 +1159,9 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;Camera Expert ExpertColor CE 100;;;;;;;;0;
 ;;Camif LaboPhoto Couleur 200;;;;;;;CAMIF;0;Camif200.jpg
 ;;Cana-Pan film 160 ISO B&W #Canapan;;;;;;;Mortifee Munshaw LTD;0;Canapan.jpg
+;;CANDIDO ISO 200C #5213;Vision3 200T (5213), no remjet;Kodak;4;;;;Candido Collective;1;
+;;CANDIDO ISO 400C #5207;Vision3 250D (5207), no remjet;Kodak;4;;;;Candido Collective;1;
+;;CANDIDO ISO 800C #5219;Vision3 500T (5219), no remjet;Kodak;4;;;;Candido Collective;1;
 1062;010623;Cannon Power – Film for true colour ISO 100 #cannonpower canonpower;Scotch Color;;2;;;;;0;
 1361;013613;Canopower Film for true colour ISO 100 Super HP 100 #HP100;Imation Color HP100;Ferrania;3;Made in Italy;;;CHANDRU INTERNATIONAL PTY LTD, Sydney;0;CanopowerSuperHP100.jpg
 ;;Capital Sound & Vision Colour Print film ISO 400;;;;;;;Capital Sound & Vision LTD, UK;0;Capital400.jpg
@@ -1239,6 +1243,7 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;Centre Japonais de la Photo ISO 200;;;;;;;Centre Japonais de la Photo, Quebec;0;
 ;;CEQUIP color film;;;;;;;CEQUIP;0;
 ;;CFP Double-X B&W Camera Film Photo #XX doubleX 5222;Kodak Double X 5222;Kodak;;Made in USA;;;Camera Film Photo Limited (HK);2;CFPdoubleX.jpg
+;;CFP KIKI PAN 320 #kikipan;“Negative made in Germany converted in UK”. Could be Orwo N75;;1;Made in Germany converted in UK;2022 ?;;Camera Film Photo Limited, Hong Kong;1;
 1843;018433;Champion 100 ISO;AgfaColor XRG 100;;3;Made in E.U.;90’s;;Champion supermarket;0;Champion100.jpg
 ;;Champion 200 ISO;AgfaColor XRG 200 ?;;2;Made in E.U. ?;90’s;;Champion supermarket;0;
 ;;Champion 400 ISO;AgfaColor XRG 400 ?;;2;Made in E.U.;90’s;;Champion supermarket;0;Champion400.jpg
@@ -1328,7 +1333,7 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 1847;018473;Color plus 100 Colorplus;Solaris FG then AgfaColor ?;Ferrania then Agfa ?;3;;2003;;Duttenhofer;0;
 ;;Color plus 200 Colorplus;Solaris FG;Ferrania;3;;2003;;Duttenhofer;0;
 ;;Color plus 400 Colorplus;Solaris FG;Ferrania;3;;2003;;Duttenhofer;0;
-1558;115587;Color print film for single use cameras;KODAK Color Negative 400 ?;;0;Made in USA, disposable camera;;;;1;
+1558;115587;Color print film for single use cameras;KODAK Color Negative 400 or Ferrania Solaris 400 ?;;0;Made in USA, disposable camera;;;;1;
 ;;Colorama DX New 200 Colour film for print;KODAK Color Negative 400 ?;;;Made in Germany;;;Colorama Laboratories, E;0;ColoramaDXnew200.jpg
 ;;Colorama DX200 Colour film for print;;;;Made in Germany;;;Colorama Laboratories, E;0;ColoramaDX200.jpg
 ;;Colorama HDC plus 200 #HDC+;Agfacolor HDC plus 200;Agfa-Gevaert AG;2;Made in Germany;;;Colorama Laboratories, E;0;
@@ -1869,6 +1874,7 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;Ferrania Microfilm Ortho Safety Film;;Ferrania;;Made in Italy;60's ?;;Ferrania;0;FerraniaMicrofilmOrtho.jpg
 ;;Ferrania Microfilm Pan;;Ferrania;;;;;;0;
 ;;Ferrania NM64 Color;;Ferrania / 3M;;Made in Italy;~1967;;Ferrania;0;FerraniaNM64.jpg
+;;Ferrania Orto 50 ISO ortocromatica B&W #ortochromatic #orto50;;FILM Ferrania s.r.l;;Made in Italy, Cairo Montenotte;2023;;Ferrania;1;FerraniaOrto2023.jpg
 ;;Ferrania pancro #Panchro pancromatica;;Ferrania;;Made in Italy;1953;1960 ?;Ferrania;0;
 ;;Ferrania pancro 28 #Panchro pancromatica;;Ferrania;;Made in Italy;50’s ?;;Ferrania;0;
 ;;Ferrania pancro 30 #Panchro pancromatica;;Ferrania;;Made in Italy;1960;;Ferrania;0;
@@ -1881,11 +1887,12 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;Ferrania pancro P.3 28° #Panchro pancromatica P3;;Ferrania;;Made in Italy;40’s;;Ferrania;0;FerraniaP3.jpg
 ;;Ferrania pancro P24 – 20 ASA B&W #Panchro;;Ferrania;;Made in Italy;1961;;Ferrania;0;
 ;;Ferrania pancro P27 – 40 ASA B&W #Panchro;;Ferrania;;Made in Italy;1961;;Ferrania;0;FerraniaP27.jpg
-;;Ferrania pancro P30 (2d batch) - 80 ASA B&W #Panchro new pancromatica #notAlpha fp30;2d batch, improved emulsion, only small quantity for Italian market (2019), then worldwide avalability in 2020…;FILM Ferrania s.r.l;;Made in Italy, Cairo Montenotte;Nov 2019;;Ferrania;2;FerraniaP30-2019.jpg
+;;Ferrania pancro P30 (2d batch) - 80 ASA B&W #Panchro new pancromatica #notAlpha fp30;2d batch, improved emulsion, only small quantity for Italian market (2019), then worldwide avalability in 2020…;FILM Ferrania s.r.l;;Made in Italy, Cairo Montenotte;Nov 2019;2020 ?;Ferrania;0;FerraniaP30-2019.jpg
+;;Ferrania pancro P30 (3d batch, final version ?) - 80 ASA B&W #Panchro new pancromatica #notAlpha fp30;Post-Covid new production;FILM Ferrania s.r.l;;Made in Italy, Cairo Montenotte;2024;;Ferrania;1;FerraniaP30-2019.jpg
 ;;Ferrania pancro P30 (original 60's version) – 80 ASA B&W #Panchro pancromatica fp30;;Ferrania;;Made in Italy;1961;;Ferrania;0;FerraniaP30.jpg
 ;;Ferrania pancro P30 Alpha (1st batch) - 80 ASA B&W #Panchro new pancromatica FP30a;Based on old italian cine film emulsion. Produced by a new team after a Kickstarter, using test equipment from Ferrania;FILM Ferrania s.r.l;;Made in Italy, Cairo Montenotte;2017;Oct 2018;Ferrania;0;FerraniaP30Alpha.jpg
 ;;Ferrania pancro P33 – 160 ASA B&W #Panchro pancromatica;;Ferrania;;Made in Italy;1961;;Ferrania;0;FerraniaP33.jpg
-;;Ferrania pancro P33 (2024 version) – 160 ASA B&W #Panchro pancromatica;;FILM Ferrania s.r.l;;Made in Italy;2024;;Ferrania;0;
+;;Ferrania pancro P33 (2024 version) – 160 ASA B&W #Panchro pancromatica;;FILM Ferrania s.r.l;;Made in Italy;2024;;Ferrania;1;FerraniaP33-2024.jpg
 ;;Ferrania pancro P36 – 320 ASA B&W #Panchro pancromatica;;Ferrania;;Made in Italy;1961;;Ferrania;0;FerraniaP36Panchro.jpg
 ;;Ferrania pancro S.2 / 32° #S2;;Ferrania;;Made in Italy;50’s;;Ferrania;0;
 ;;Ferrania pancro S.4 #S4;;Ferrania;;Made in Italy;50’s;;Ferrania;0;
@@ -2095,7 +2102,8 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;Foma MEDIX SH;Orthochromatically sensitized film for recording in image intensifier (spot) cameras, and for fluorography;Foma;;;;;Foma Bohemia LTD, CS;0;
 ;;Foma MEDIX XBU;Blue-sensitive, double emulsion high-speed medical radiographic film;Foma;;;2001;;Foma Bohemia LTD, CS;0;
 ;;Foma MEDIX XG;Double coated high-quality, high-contrast, low-fog and low-noise medical X-ray film.;Foma;;;2001;;Foma Bohemia LTD, CS;0;
-;;Foma Ortho 400;120 only. Orthochromatically sensitized black and white negative film;;;;May 2023;;FOMA BOHEMIA spol. s r.o. (Ltd.) ;2;FomaOrtho400.jpg
+;;Foma Ortho 400 120;120 format. Orthochromatically sensitized black and white negative film;Foma;;;May 2023;;FOMA BOHEMIA spol. s r.o. (Ltd.) ;2;FomaOrtho400.jpg
+;;Foma Ortho 400 135;135 format. Orthochromatically sensitized black and white negative film;Foma;;;2024;;FOMA BOHEMIA spol. s r.o. (Ltd.) ;2;FomaOrtho400-135.jpg
 ;;Foma REPRO N5;Blue-sensitive, black-and-white film of excellent sharpness and resolving power, and of high maximum optical density, designed for contact line and text work;FOTOCHEMA Ltd;;cz;;;Foma Bohemia, CS;0;
 ;;Foma REPRO N52;Blue-sensitive, black-and-white film of excellent sharpness and resolving power, and of high maximum optical density, designed for contact line and text work;FOTOCHEMA Ltd;;cz;;;Foma Bohemia, CS;0;FomaReproN52.jpg
 ;;Foma REPRO O5;Black-and-white, orthochromatic film for high-quality reproduction of all line and halftone originals and for halftone reproduction.;FOTOCHEMA Ltd;;cz;;;Foma Bohemia, CS;0;
@@ -2192,6 +2200,7 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;Foto Reinhardt ProfiColor Extra XL100;;;;;;;;0;ReinhardtExtraXL100.jpg
 ;;Foto Schrøder ISO 200 #Schroder;;;;;;;;1;FotoSchroder200.jpg
 ;;Foto Sistema FS Color Film ISO 100;;;;;;;;0;
+;;FOTO XC ISO 400;;;;;;;;1;fotoXC400.jpg
 ;;Foto-fast Deluxe Express photo laboratory #Fotofast;;;;;;;;0;
 ;;Foto-fast HR Colour Negative #Fotofast;;;;;;;;0;
 ;;Foto-Treff Color Bilderfilm 100 #Fototreff;Ferrania Solaris FG;Ferrania;3;;2003;;Fototreff;0;
@@ -2544,7 +2553,7 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;FUJICHROME Professional 120 Type T Tungsten (improved);;;;Made in Japan;1979;;;0;
 0548;005480;Fujichrome Provia 100 professional RDP II Daylight rdpII;Velvia technology. Replaced by 100F;;;Made in Japan;1994;1999;;0;FujichromeProvia100.jpg
 0557;005574;FUJICHROME PROVIA 100F RDP II Professional RDPII;;;;Made in Japan;;1999;;0;
-0557;005570;FUJICHROME PROVIA 100F RDP III Professional RDPIII;;;;Made in Japan ;1999;;;2;Provia100F.jpg
+0557;005570;FUJICHROME PROVIA 100F RDP III Professional RDPIII;;;;Made in Japan ;1999;2024;;0;Provia100F.jpg
 0522;005220;FUJICHROME PROVIA 400 RHP;;;;Made in Japan ;1994;;;0;FujichromeProvia400RHP.jpg
 0554;005540;FUJICHROME PROVIA 400F Professional RHPIII;;;;Made in Japan ;2000;2013;;0;Provia400F-RHPIII.jpg
 0544;005440;FUJICHROME PROVIA 400X Professional RXP;Replaced 400F then discontinued…;;;Made in Japan ;2006;2015;;0;FujiProvia400X.jpg
@@ -2775,16 +2784,16 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 0633;006330;FUJICOLOR SUPERIA VENUS 800;Japanese market only, same or improved Superia X-tra 800;;;Made in Japan;2003;;;0;FujiSuperiaVenus800First.jpg
 0635;006354;FUJICOLOR SUPERIA VENUS 800;Japanese market only, same or improved Superia 800;;;Made in Japan;2003;;;0;SuperiaVenus800.jpg
 0635;006357;FUJICOLOR SUPERIA VENUS 800;New version is SUPERIA 800 ? batch Y72304 (Exp. 2019) - Japanese market only;;;Made in Japan;2017 ?;Dec 2019;;1;SuperiaVenus800.jpg
-0561;005613;Fujicolor Superia X-Tra 400 #XTRA400;;;;Made in Japan;;;;1;FujiSuperiaXtra400.jpg
-0562;005623;Fujicolor Superia X-Tra 400 #XTRA400;;;;Made in Japan;;;;1;FujiSuperiaXtra400.jpg
-0628;106283;Fujicolor Superia X-tra 400 #XTRA400;;;;;;;;1;FujiSuperiaXtra400.jpg
-0635;106353;Fujicolor Superia X-Tra 400 #XTRA400;;;;;;;;1;FujiSuperiaXtra400.jpg
-0200;202003;Fujicolor Superia X-Tra 400 #XTRA400;;;;Made in Japan;;;;1;FujiSuperiaXtra400.jpg
-0626;206263;Fujicolor Superia X-tra 400 #XTRA400;;;;;;;;1;FujiSuperiaXtra400.jpg
-0628;206283;Fujicolor Superia X-tra 400 #XTRA400;;;;;;;;1;FujiSuperiaXtra400.jpg
+0561;005613;Fujicolor Superia X-Tra 400 #XTRA400;;;;Made in Japan;;;;0;FujiSuperiaXtra400.jpg
+0562;005623;Fujicolor Superia X-Tra 400 #XTRA400;;;;Made in Japan;;;;0;FujiSuperiaXtra400.jpg
+0628;106283;Fujicolor Superia X-tra 400 #XTRA400;;;;;;;;0;FujiSuperiaXtra400.jpg
+0635;106353;Fujicolor Superia X-Tra 400 #XTRA400;;;;;;;;0;FujiSuperiaXtra400.jpg
+0200;202003;Fujicolor Superia X-Tra 400 #XTRA400;;;;Made in Japan;;;;0;FujiSuperiaXtra400.jpg
+0626;206263;Fujicolor Superia X-tra 400 #XTRA400;;;;;;;;0;FujiSuperiaXtra400.jpg
+0628;206283;Fujicolor Superia X-tra 400 #XTRA400;;;;;;;;0;FujiSuperiaXtra400.jpg
 0197;601973;Fujicolor Superia X-tra 400 #XTRA400;;;;Made in Japan;;;;0;FujiSuperiaXtra400.jpg
 0581;005813;Fujicolor Superia X-Tra 400 0626;;;;Made in Japan;;;;1;FujiSuperiaXtra400.jpg
-0197;001970;FUJICOLOR SUPERIA X-TRA 400 CH 4th color layer #XTRA400 X-TRA400;;;;Made in Japan;;;;2;FujiSuperiaXtra400.jpg
+0197;001970;FUJICOLOR SUPERIA X-TRA 400 CH 4th color layer #XTRA400 X-TRA400;;;;Made in Japan;;2024;;0;FujiSuperiaXtra400.jpg
 0200;502003;Fujicolor Superia X-tra 400 Costco branded film #XTRA400;;;;Made in Japan;;;;0;FujiXtra400Costco.jpg
 0197;601973;Fujicolor Superia X-tra 400 Wal-mart branded film #walmart XTRA400;;;;Made in Japan;;;;0;FujiXtra400Walmart.jpg
 0200;602003;Fujicolor Superia X-tra 400 Wal-mart branded film #walmart XTRA400;;;;Made in Japan;;;;0;FujiXtra400Walmart.jpg
@@ -2796,6 +2805,10 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 0192;001920;Fujicolor TRUE DEFINITION 400 CH11 / TD400;Derivated from Superia X-tra 400, for US market;;;;;;;0;FujiTrueDefinition.jpg
 0130;001300;Fujicolor Z200;Fujicolor 200 for LIDL discount supermaket;;3;;~2006 ?;;LIDL Stiftung & Co-KG, DE;0;FujiColorZ200.jpg
 ;;Fujicolor-S 100;Japanese market film ?;;;;;;;1;FujicolorS100.jpg
+0625;106250;Fujifilm 200 China #C200;Fuji Superia C200. Also available under the brand Yes!Star Supreme 200 for China market;Guangxi Giant Star Medical Equipment Co Ltd (under Fujifilm licence);3;China;2024;;Yes!Star (China);2;Fuji200china.jpg
+0625;506254;FUJIFILM 200 made in USA #fuji200;Could be tweaked Color Plus 200;Kodak…;3;Made in USA;;2022 ?;;2;Fuji200-USA.jpg
+0628;106284;Fujifilm 400 China #C400;Fuji Superia C400 (X-TRA?) Also available under the brand Yes!Star Supreme 400 for China market;Guangxi Giant Star Medical Equipment Co Ltd (under Fujifilm licence);3;China;2024;;Yes!Star (China);2;Fuji400china.jpg
+;;FUJIFILM 400 made in USA #fuji400;Could be tweaked Kodak UltraMax 400;Kodak…;3;Made in USA;;2022 ?;;2;Fuji400-2024.jpg
 0561;105614;Fujifilm 800 Quicksnap;Fujicolor Superia X-TRA 800 for disposable camera;;3;;;;;0;
 0561;305614;Fujifilm 800 Quicksnap;Fujicolor Superia X-TRA 800 for disposable camera;;3;;;;;0;
 ;;Fujifilm Color Film reversal (ASA 10) ;First color reversal fuji film;;;Made in Japan;1948;;;0;
@@ -3096,6 +3109,7 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 0454;004543;Hema Kleurenfilm Super SR200;Konica VX200 Super;;4;Made in Japan;;;;0;HemaSuperSR200.jpg
 0625;706254;Hema Kleurenfilm Super SR200 FarbFilm;Fuji Superia 200 / C200;;3;Made in Japan;;;;0;HemaFarbSuperSR200.jpg
 ;;Hema Kleurenfilm Super SR400;Konica VX400 Super;;3;Made in Japan;;;;0;HemaSuperSR400.jpg
+0626;706264;Hema Kleurenfilm Super SR400 FarbFilm;Fuji Superia 400;;2;Made in Japan;;;;0;
 0628;706284;Hema Kleurenfilm Super SR400 FarbFilm;Fuji Superia 400;;2;Made in Japan;;;;0;
 1729;017294;HEMA Zwart-Wit Film 125 #Black&white B&W;it's an Ilford emulsion, but not regular FP4+ : Ilford H125 ?;;2;;;;;0;HemaBnW125.jpg
 1730;017304;HEMA Zwart-Wit Film 400 #Black&white B&W;Ilford ?;;;;;;;0;HemaZwart400.jpg
@@ -3228,8 +3242,9 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 1746;;Ilford FP4 Negative Cine Film #FP-4;;Ilford ltd;;Made in UK;1968;80’s ?;;0;
 1756;017560;Ilford FP4 PLUS (black box) #FP-4 FP4+;;Ilford ltd;;Made in UK;1990;~2004;;0;FP4PlusBlack.jpg
 1756;017560;Ilford FP4 PLUS (Black&white box) #FP-4 FP4+;New B&W box;Harman Technologies;;Made in UK;2018;;;2;IlfordFP4plus2018.jpg
-1756;017560;Ilford FP4 PLUS (Press or Propack) #FP-4 FP4+;"Sold by big ""propack"", 50 films, no individual box";Ilford ltd;;Made in UK;;;;2;IlfordFP4plusPress.jpg
+1756;017560;Ilford FP4 PLUS (Press or Propack) #FP-4 FP4+;"Sold by big ""propack"", 50 films, no individual box";Ilford ltd;;Made in UK;;;;1;IlfordFP4plusPress.jpg
 1756;017560;Ilford FP4 PLUS (white box) FP4+;;Ilford ltd;;Made in UK;~2004;2018;;0;FP4PlusWhite.jpg
+1756;017560;Ilford FP4 PLUS limited-edition retro packaging for 145th birthday #FP-4 FP4+;New B&W box;Harman Technologies;;Made in UK;2024;2025;;0;IlfordFP4-145birthday.jpg
 1756;;Ilford FP4 PLUS motion picture version #FP-4 FP4+;;Ilford ltd;;Made in UK;~1990;;;0;
 1756;;Ilford FP4 PLUS Surveillance version #FP-4 FP4+;;Ilford ltd;;Made in UK;90's ?;;;0;
 ;;Ilford G5 Nuclear Research Emulsion #G-5;Special emulsion for nuclear physics purposes. The film was used in Apollo 11 mission to measure the radiation exposure of the three astronauts;Ilford ltd;;Made in UK;50’s ?;;;0;
@@ -3258,6 +3273,7 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 1753;017530;Ilford HP5 PLUS 400 HP5+ (Black&white box);New B&W box;Harman Technologies;;Made in UK;2018;;;2;IlfordHP5plus2018.jpg
 1753;017530;Ilford HP5 PLUS 400 HP5+ (Press or propack);"Sold by big ""propack"", 50 films, no individual box";Ilford ltd;;Made in UK;~1989 ?;;;1;HP5plusPress.jpg
 1753;017530;Ilford HP5 PLUS 400 HP5+ (white box);;Ilford ltd;;Made in UK;~2004;2018;;0;Hp5plusactual.jpg
+1753;017530;Ilford HP5 PLUS 400 limited-edition retro packaging for 145th birthday #HP5+;;Harman Technologies;;Made in UK;2024;2025;;0;IlfordHP5-145birthday.jpg
 1753;;Ilford HP5 PLUS 400 motion picture version HP5+;;Ilford ltd;;Made in UK;;2003;;0;
 ;;Ilford HPS 400 ASA;the fastest film in the world;Ilford ltd;;Made in UK;1952 (plate), 1954 (films);~1960;;0;IlfordHPS.jpg
 ;;Ilford HPS 800 ASA;;Ilford ltd;;Made in UK;1960;~1970;;0;
@@ -3550,6 +3566,7 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;Kin-O-Lux Reversal No . 1 #Kinolux N2;Only 16mm ?;;;;~1945;;;0;
 ;;Kin-O-Lux Superio No . 2 ISO 50 #Kinolux N2;;;;;~1945;;;0;
 ;;Kin-O-Lux Superio No . 3 ISO 100 #Kinolux N3;;;;;~1945;;;0;
+;;KING FILM COLOR ZEALOUS 200;Rebranded C-41 film hand-spooled with metal cartridge;;;;2024 ?;;;1;
 ;;King Film Panchro SS Film;;;;;;;;0;KingPanSS.jpg
 ;;King Frog;;;;;;;King Frog Photo;0;
 ;;KING Soopers HR 100 Color Print Film;;;;Made in USA;;;;0;KingSoopers100.jpg
@@ -3696,7 +3713,7 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;Kodak CINEFLURE Film CFG;Photofluography film ?;;;;~1960;;;0;
 ;;Kodak Cold 200 Toy Story commemorative Holiday Tin (4 films);;;;;1996 ?;1996 ?;;0;KodakGold200ToyStory.jpg
 ;;Kodak Color Asset Protection Film 2332;;Kodak;;;2012;2014;;0;
-;;Kodak Color Internegative ESTAR Base – Code 2273 / 3273 ;;Kodak;;;;;;2;
+;;Kodak Color Internegative ESTAR Base – Code 2273 / 3273 ;;Kodak;;;;2020;;0;
 ;;Kodak Color Internegative Film 5273 / 7273;;Kodak;;;;2014;;0;
 ;;Kodak Color Negative - Code : 200;;Kodak;;;;;;0;
 1553;015530;Kodak Color Negative 100 Film;;Kodak;;;;;;0;
@@ -4039,6 +4056,7 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 0860;008600;Kodak EKTACHROME 100 Professional Film (Daylight);;;;;;;;0;
 0839;008394;Kodak EKTACHROME 100 Professional Film (Daylight) – Code 5005 EPP;;;;;;;;0;
 ;;Kodak EKTACHROME 100D Color Reversal Film – Code 5285;16 & 35mm, for motion picture;Kodak;;;1999;2012;;0;
+;;KODAK EKTACHROME 100D Color Reversal Film 5294 / 7294 ;100-foot spools and 400-foot rolls, 8, 16 & 35mm/ Perforated or unperforated.;;;;2019;;;2;Ektachrome100D-Roll.jpg
 0329;003294;Kodak EKTACHROME 100HC – Code EC100;;;;Made in USA or England;1988;~2003 ?;;0;KodakEkta100HC.jpg
 0329;003294;Kodak EKTACHROME 100HC – Code EPC100;;;;Made in USA or England;1988;~2003 ?;;0;KodakEkta100HC.jpg
 ;;Kodak EKTACHROME 100T Color Reversal Film (Tungsten) – Code 5285;;Kodak;;;;2010;;0;
@@ -4802,7 +4820,7 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;Kodak Panchromatic Cine Film;;Eastman Kodak Company;;;1922;;;0;
 ;;Kodak Panchromatic Digital Sound Recording Film Code – 2374 / 3374 (R);;Eastman Kodak Company;;;1990;;;2;
 ;;Kodak Panchromatic K, infrared – Code 1210;;Eastman Kodak Company;;;1928;;;0;
-;;Kodak Panchromatic Separation Film – Code 2238 EX;Replacement for 5235;Kodak;;;1999;;;2;Kodak2238.jpg
+;;Kodak Panchromatic Separation Film – Code 2238 EX;Replacement for 5235;Kodak;;;1999;2023;;0;Kodak2238.jpg
 ;;Kodak Panchromatic Sound Recording Film ESTAR Gray Base – Code 2374E;;Eastman Kodak Company;;;1990;;;1;
 ;;Kodak Pathé Definix Rayon X – X-ray film pathe;;Kodak Pathé;;Made in France;50's ?;;;0;
 ;;Kodak Pathé Kodirex Bi couche Rayon X – X-ray film Pathe;;Kodak Pathé;;Made in France;50's ?;;;0;
@@ -4972,7 +4990,7 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 1545;015450;Kodak Professional PORTRA 400NC;;;;;2007;;;0;KodakPortra400NC.jpg
 1530;015300;Kodak Professional PORTRA 400VC;;;;;2007;;;0;KodakPortra400VC.jpg
 1546;015460;Kodak Professional PORTRA 400VC;;;;;2007;;;0;KodakPortra400VC.jpg
-1277;212774;Kodak Professional Portra 400VC;Incertain DX;;;;2007;;;0;KodakPortra400VC.jpg
+1277;212774;Kodak Professional Portra 400VC;uncertain DX;;;;2007;;;0;KodakPortra400VC.jpg
 0697;006970;Kodak Professional PORTRA 800 Film;;;;;2006 ?;;;0;KodakPortraPro800.jpg
 0695;006950;Kodak Professional Portra 800-2 Film (Improved);;;;;2006;;;2;KodakPortraPro800.jpg
 0693;006930;Kodak Professional Portra 800-3 Film;;;;;2004;2006 ?;;0;KodakPortraPro800.jpg
@@ -5774,8 +5792,9 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;Kodak VISION 500T EASTMAN Color Negative Film – Code 5279 / 7279 (U).;;Kodak;;;1996;;;0;
 ;;Kodak Vision 800 ? - Code 5283;Cine film. Only produced 3 years, not a success because considered too grainy...;;;;2001;2003;;0;
 ;;Kodak Vision 800T Tungsten, 35mm, ASA 800, process ECN-2 - Code : 5289 / 7289;;;;;1998;2004;;0;Kodak5289.jpg
-;;Kodak VISION Color Intermediate Film – Code 5242 / 2242 / 7242 / 3242;Replacement for 5244 / 2244;Kodak;;;2001;;;1;
-;;Kodak VISION Color Print Film – Code 2383 / 3383;Replaced 5386. No remjet, for release printing from color negatives or color intermediates. 16 & 35mm;Kodak;;;1998;;;0;KodakVision2383.jpg
+;;Kodak VISION Color Intermediate Film – Code 5242 / 2242 / 7242 / 3242;Replacement for 5244 / 2244;Kodak;;;2001;2020;;0;
+;;Kodak VISION Color Print Film – Code 2383 / 3383 VCP242 & VCP666;Replaced 5386. No remjet, for release printing from color negatives or color intermediates. 16 & 35mm;Kodak;;;1998;2023;;0;KodakVision2383.jpg
+;;Kodak VISION Color Print Film – Code 2383 / 3383 VCP701;New version ?;Kodak;;;2023;;;1;
 ;;Kodak VISION Color Teleprint Film – Code 2395 / 3395;Low-contrast prints. 16 & 35mm;Kodak;;;2009;;;0;
 ;;Kodak VISION Expression 500T Color Negative Film – Code 5284 (EG);;Kodak;;;2001;;;0;
 ;;Kodak VISION Premier Color Print Film – Code 2393 ESTAR-base;Processes ECP-2D and ECP-2E. Higher density blacks than 2383;Kodak;;;1998;2012;;0;
@@ -5788,12 +5807,13 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;Kodak VISION2 50D Color negative Film – Code 5201 / 7201 (EK);;Kodak;;;2005;;;0;
 ;;Kodak VISION2 Expression 500T Color Negative Film – Code 5229 / 7229 (EB) ;Low contrast, low color film with soft smooth flesh tones;Kodak;;;2003;2010;;0;
 ;;Kodak VISION3 200T Color Negative Film – Code 5213 / 7213;;Kodak;;;2010;2014;;0;
-;;Kodak VISION3 250D Color Negative Film – Code 5207 / 7207;;Kodak;;;2009;2014;;0;
+;;Kodak VISION3 250D Color Negative Film – Code 5207 / 7207;;Kodak;;;2009;;;1;
 ;;Kodak VISION3 500T Color Negative Film – Code 5219/7219 (EJ);;Kodak;;;2007;2014;;0;
-;;Kodak VISION3 50D Color Negative Film 5203/7203;(Same code as a 50's duplicating film…);Kodak;;;2011;;;0;Kodak5203.jpg
-;;Kodak VISION3 Color Digital Intermediate Film – Code 2254 / 5254;;Kodak;;;2010;2018;;0;
+;;Kodak VISION3 50D Color Negative Film 5203/7203;(Same code as a 50's duplicating film…);Kodak;;;2011;;;1;Kodak5203.jpg
+;;Kodak VISION3 50D Color Negative Film 7203 unperforated;Only 16mm, unperforated. (Same code as a 50's duplicating film…);Kodak;;;2019;;;1;
+;;Kodak VISION3 Color Digital Intermediate Film – Code 2254 / 5254;;Kodak;;;2010;2020 ?;;0;
 ;;Kodak VISION3 Digital Separation Film – Code 2234;;Kodak;;;2012;;;2;
-;;Kodak VISION3 Digital Separation Film 2237;;Kodak;;;2012;;;1;
+;;Kodak VISION3 Digital Separation Film 2237;;Kodak;;;2012;2023;;0;
 ;;Kodak Wash Off Relief;Precursor of Dye-Transfer;;;;1935;;;0;
 ;;Kodak Wash Off Relief – Code 1515;Precursor of Dye-Transfer;;;;1942;;;0;
 ;;Kodak White Movie Leader 7985;;;;;;;;0;
@@ -6196,9 +6216,10 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;LUCKY COLOR BR100 #LuckyColor;;China Lucky Film Corporation;;Made in China;~1991;;;0;LuckeyBR100.jpg
 1609;016090;LUCKY COLOR GBR Plus 100 #LuckyColor GBR+ GBR100+;;China Lucky Film Corporation;;Made in China;;;;0;LuckyGBRplus100.jpg
 1609;;LUCKY COLOR GBR Plus 200 #LuckyColor GBR+ GBR200+;;China Lucky Film Corporation;;Made in China;;;;0;LuckyGBRplus200.jpg
-;;LUCKY COLOR GBR100 #LuckyColor;;China Lucky Film Corporation;;Made in China;1992;;;0;
+;;LUCKY COLOR GBR100 #LuckyColor;;China Lucky Film Corporation;;Made in China;2003 ?;2012 ?;;0;
 ;;LUCKY COLOR GBR100 Super #LuckyColor;;China Lucky Film Corporation;;Made in China;;;;0;LuckycolorGBR100super.jpg
-;;LUCKY COLOR GBR200 #LuckyColor;;China Lucky Film Corporation;;Made in China;1992;;;0;
+;;LUCKY COLOR GBR200 #LuckyColor;;China Lucky Film Corporation;;Made in China;2003 ?;2012 ?;;0;
+;;LUCKY COLOR GBR400 #LuckyColor;;China Lucky Film Corporation;;Made in China;2003 ?;2012 ?;;0;
 ;;LUCKY COLOR II iso 100 #LuckyColor2;;China Lucky Film Corporation;;Made in China;~1991;;;0;LuckycolorII.jpg
 0964;009640;LUCKY COLOR LUCKYCHROME 100HC #LuckyColor CH;;China Lucky Film Corporation;;Made in China;1992;;;0;
 ;;LUCKY COLOR LUCKYCHROME 100HD #LuckyColor ;Improved 100HC ?;China Lucky Film Corporation;;Made in China;Mid-90’s ?;;;0;
@@ -6247,6 +6268,7 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 1448;;LUCKY SHD100 NEW 120 B&W;120 roll film;China Lucky Film Corporation;;Made in China;;~2010 ?;;0;LuckySHDnew100-120.jpg
 ;;LUCKY SHD400 ;;China Lucky Film Corporation;;Made in China;;;;0;LuckySHD400.jpg
 1452;014520;LUCKY SHD400 CN B&W;;China Lucky Film Corporation;;Made in China;;;;1;LuckySHD400CN.jpg
+;;LUCKY SHD400 LuckyPan (new);PET-based aerial recon film repackaged;China Lucky Film Corporation ?;;Made in China ?;2023 ?;;;1;Luckypan400new.jpg
 ;;LUCKY SHD400 LuckyPan (old);;China Lucky Film Corporation;;Made in China;;;;0;Luckypan400.jpg
 1450;014500;LUCKY SHD400 NEW B&W;;China Lucky Film Corporation;;Made in China;;;;1;LuckySHDnew400.jpg
 ;;Lucky Special Type 1112;for recoverable satellite;China Lucky Film Corporation;;Made in China;;;;0;
@@ -6631,7 +6653,7 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;Ogatech Vega High Quality Film For Color Prints ISO 200;Ferrania ?;;1;;;;OGATECH;0;
 ;;Ogatech Vega High Quality Film For Color Prints ISO 400;Ferrania ?;;1;;;;OGATECH;0;
 ;;Ogatech Vega High Quality Film For Color Prints ISO 800;Ferrania ?;;1;;;;OGATECH;0;
-1067;010673;One Film 200 ;Scotch Color EXH;Ferrania;3;;;;;0;
+1067;010673;One Film 200 #Polaroid;Scotch Color EXH;Ferrania;3;;;;Polaroid ?;0;
 ;;One Iso film grain ultra fin 1 Asa;Agfa Copex 2OYAT ;Agfa;4;Made in Belgium, perforated in France;;;35mm-compact french forum;2;
 ;;ONIKO x-ray FF-1 #xray;Green-sensitive photofluography film from Agfa (Scopix RP2?);Agfa ?;2;;;;;1;
 ;;ONIKO x-ray RP-1D (dental) #xray;X-ray universal dental film for intraoral pictures;Agfa;2;;;;;1;
@@ -6790,6 +6812,8 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;Orwo NP-7 (400 ASA) B&W #NP7;Cinematic version of ORWO NP 27;VEB FilmfabrikWolfen;;GDR;;;;0;
 ;;Orwo NP-71 B&W #NP71;Cine negativ film, panchromatic;VEB FilmfabrikWolfen;;GDR;;;;0;
 ;;Orwo NT-18 Negative film ASA 50 #NT18;Agfa Ultra T derivative;;;GDR;1964;1965;;0;
+;;Orwo ORIGINAL WOLFEN P400;N75 with an additional dyed antihalation layer ?;Orwo-Filmotec/inovisCoat;3;Made in Germany;2024 ?;;;2;OrwoP400.jpg
+;;Orwo ORIGINAL WOLFEN UN54 cine;UN54 new box ?;Orwo-Filmotec/inovisCoat;3;Made in Germany;2024 ?;;;1;OrwoOriginalWolfenUN54cine.jpg
 ;;Orwo Orwochrom;;VEB FilmfabrikWolfen;;DDR;1975;;;0;
 ;;Orwo Orwochrom Professional Type S;Only rolls & sheets;VEB FilmfabrikWolfen;;GDR;1974;1982;;0;
 ;;Orwo Orwochrome DIA18 slide ISO 50;;VEB FilmfabrikWolfen;;GDR;1991;;;0;
@@ -6815,8 +6839,8 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;Orwo PC-9 Color Positive PC9;;VEB FilmfabrikWolfen;;Made in Germany;;;;0;
 ;;Orwo PF-1 Positiv Feinkornfilm PF1;small grain color blind film for projection purposes;VEB FilmfabrikWolfen;;GDR;60’s;;;0;
 ;;Orwo PF-11 Positiv Feinkornfilm PF11;small grain color blind film for projection purposes;VEB FilmfabrikWolfen;;GDR;60’s;;;0;
-;;Orwo PF-2 Positive Print Film #PF2;Laboratory films : positive Motion Picture film, only in 400 ft bulk roll. ;VEB FilmfabrikWolfen then Orwo-Filmotec/inovisCoat;;Made in Germany;60’s;;;1;
-;;Orwo PF-2+ Positive Print Film #PF2+ PF2plus;Laboratory films : Improved positive Motion Picture film with an anti-halo undercoat, only in 400 ft bulk roll. Same as PF2v3 ?;Orwo-Filmotec/inovisCoat;;Made in Germany;2008;;;1;
+;;Orwo PF-2 Positive Print Film #PF2;Laboratory films : positive Motion Picture film, only in 400 ft bulk roll. ;VEB FilmfabrikWolfen then Orwo-Filmotec/inovisCoat;;Made in Germany;60’s;90’s ?;;1;
+;;Orwo PF-2+ Positive Print Film #PF2+ PF2plus;Laboratory films : Improved positive Motion Picture film with an anti-halo undercoat, only in 400 ft bulk roll. Same as PF2v3 ?;Orwo-Filmotec/inovisCoat;;Made in Germany;2008;2014 ?;;1;
 ;;Orwo PF-2v3 Positive Print Film #PF2V3;Laboratory films : positive Motion Picture film, only in 400 ft bulk roll. ;Orwo-Filmotec/inovisCoat;;Made in Germany;2014;;;2;
 ;;Orwo PR-100 Orwocolor (100 ASA) #PR100;NC21 converted to C-41 process;VEB FilmfabrikWolfen;;DDR;1990;;;0;OrwoPR100.jpg
 1952;019523;Orwo QRS-100 Orwocolor #QRS100 ;Last original orwo color film;VEB FilmfabrikWolfen;;Made In Germany;1992;~1994;;0;OrwoQRS100.jpg
@@ -6885,7 +6909,7 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;Orwo WOLFEN NC 400 Color #nc400;C-41 process, 500 ASA. Could be based on Agfa XT320 formula, coated by OrWo Bitterfeld-Wolfen. Limited edition…;Orwo-Filmotec/inovisCoat;;Made in Germany;2023 ?;;;2;OrwoWolfenNC400.jpg
 ;;Orwo WOLFEN NC 500 Color #nc500;C-41 process, 500 ASA. Could be based on Agfa XT320 formula, coated by OrWo Bitterfeld-Wolfen. Limited edition…;Orwo-Filmotec/inovisCoat;;Made in Germany;June 2022;;;2;OrwoWolfenNC500.jpg
 ;;Orwo WOLFEN NP100 B&W Film ISO 100 #UN54;UN54 with an additional dyed antihalation layer, preventing the formation of a reflection halo.;Orwo-Filmotec/inovisCoat;4;Made in Germany;April 2022;;;2;
-;;Orwo WOLFEN NP400 B&W Film ISO 100 #N75;N75 with an additional dyed antihalation layer ?;Orwo-Filmotec/inovisCoat;2;Made in Germany;June 2022 ?;;;2;
+;;Orwo WOLFEN NP400 B&W Film ISO 100 #N75;N75 with an additional dyed antihalation layer ? Upgraded to P400 ??;Orwo-Filmotec/inovisCoat;2;Made in Germany;June 2022 ?;2024 ?;;1;
 ;;Orwo XR-11 X-ray dental #XR11;Mini sheet for dental x-ray;VEB FilmfabrikWolfen;;GDR;;;;0;OrwoXR11.jpg
 ;;Orwo ZP-1 Astro #ZP1;Plate only ?;VEB FilmfabrikWolfen;;DDR;;;;0;
 ;;Orwo ZP-3 Astro #ZP3;Plate only ?;VEB FilmfabrikWolfen;;DDR;;;;0;
@@ -7270,9 +7294,18 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;Redeye Redscale;Inverted film for redscale;;;;2021;;RedeyeRedscale, UK;2;
 ;;REDLAND Platinium D dental x-ray film DR-54 #DR54 xray REDDR-54;;Kodak ?;;;;;;1;
 ;;Refleks Roll film;;;;;;;Freefilms Ltd, UK;0;
-;;Reflx Lab 250D 35mm color film;Fresh Kodak Vision3 5207 250D, remjet NOT removed, ECN-2;Kodak;4;;2021 ?;;Reflx Lab, China;1;
-;;Reflx Lab 400D 35mm color film;Fresh Kodak Vision3 5207 250D, remjet removed, ECN-2;Kodak;4;;Early 2022;;Reflx Lab, China;1;
-;;Reflx Lab 800T 35mm color film;Fresh Kodak Vision3 5219 800T, remjet removed, ECN-2;Kodak;4;;Early 2022;;Reflx Lab, China;1;
+;;Reflx Lab 100 Daylight Color Negative Film #5203;VISION3 50D Color Negative Film 5203. Rem-Jet layer removed;Kodak;4;;2023 ?;;Reflx Lab, China;1;
+;;Reflx Lab 100R 35mm Color Reversal Film #Ektachrome #5294;Ektachrome 100D 5294;Kodak;4;;2023 ?;;Reflx Lab, China;1;
+;;Reflx Lab 200 Tungsten;VISION3 200T Color Negative Film 5213. Rem-Jet layer removed;Kodak;4;;2023 ?;;Reflx Lab, China;1;
+;;Reflx Lab 250D 35mm color film #5207;Fresh Kodak Vision3 5207 250D, remjet NOT removed, ECN-2;Kodak;4;;2021 ?;;Reflx Lab, China;1;
+;;Reflx Lab 400 Daylight 35mm Color Negative Film #5207;VISION3 250D Color Negative Film 5207. Rem-Jet layer removed;Kodak;4;;2023 ?;;Reflx Lab, China;1;
+;;Reflx Lab 400D 35mm color film #5207;Fresh Kodak Vision3 5207 250D, remjet removed, ECN-2;Kodak;4;;Early 2022;;Reflx Lab, China;1;
+;;Reflx Lab 500T Tungsten 35mm Color Negative Film #5219;VISION3 500T Color Negative Film 5219. Rem-Jet layer NOT removed;Kodak;4;;2023 ?;;Reflx Lab, China;1;
+;;Reflx Lab 800 35mm color negative film (Tungsten) #5219;Kodak VISION3 500T 5219 motion picture film. Rem-Jet layer removed;Kodak;4;;2023 ?;;Reflx Lab, China;1;
+;;Reflx Lab 800T 35mm color film #5219;Fresh Kodak Vision3 5219 800T, remjet removed, ECN-2;Kodak;4;;Early 2022;;Reflx Lab, China;1;
+;;Reflx Lab Double X (5222);Kodak Double X;Kodak;4;;2023 ?;;Reflx Lab, China;1;
+;;Reflx Lab Pan400 Black & White Film;Fomapan 400;Foma;4;;2023 ?;;Reflx Lab, China;1;
+;;Reflx Lab Pro100 Color Negative Film #2460;Kodak Aerocolor 2460;Kodak;4;;2023 ?;;Reflx Lab, China;1;
 ;;Regency 35mm ISO 100 C-41;;;;Made in Japan;;;;0;Regency100.jpg
 ;;Regiscope Recording Film type 200;;Only 16mm, for Regiscope recorder;;;;;;0;
 ;;RENE SELECTION 200T 5213;Fresh Kodak Vision 3 200T (5213), remjet;Kodak;4;;2020;;Indonesia ?;1;
@@ -7296,6 +7329,7 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;RETO AMBER T200;Motion picture film, C-41 (no remjet);;;;2022 ?;;RETO Production Limited, Hong Kong;1;
 ;;RETOCOLOR AQUA 400;Expired disposable camera film ?;;;;2023;;RETO Production Limited, Hong Kong;1;
 ;;RETOCOLOR GLOW 400;Expired disposable camera film ?;;;;2023;;RETO Production Limited, Hong Kong;1;
+;;RETOCOLOR MAPLE 100;Expired disposable camera film ?;;;Made in USA, packaged in China;2024 ?;;RETO Production Limited, Hong Kong;1;
 ;;Revolog 450nm (200 ASA);Film (Kodak Colorplus pre-exposed?) with greenish-yellow or a bluish-violet tint.;Kodak;3;;;;Revolog;1;
 ;;Revolog 600nm (200 ASA);Film (Kodak Colorplus pre-exposed?) with reddish or a bluish–green tint.;Kodak;3;;;;Revolog;1;
 ;;Revolog Kolor (200 ASA);Cheap color emulsion (kodak Colorplus) with rainbow of colors;Kodak;3;"Made in USA and finished in Mexico, then ""lomoized"" in Germany...";;;Revolog;1;
@@ -7699,6 +7733,7 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;Shanghai GP3 SMPIC;No 135, only 120 & sheets. ;SMPIC Photosensitive Materials Factory;;Made in China;;~2015;;0;ShanghaiGP3.jpg
 ;;Shanghai industry X-ray film GX-A5 xray;;SGSB Shanghai Shenbei Photosensitive Materials Group;;Made in China;;;;1;
 ;;Shanghai industry X-ray film GX-A7D xray;Xray film;SGSB Shanghai Shenbei Photosensitive Materials Group;;Made in China;;;;1;
+;;Shanghai Jian Chang 400 colour negative film #Shenguang GP3;Could be Original Wolfen NC400 or NC500 ;SGSB/Shanghai Jian Cheng Technology Co. LTD ?;1;Made in China ?;2021;;Shanghai Jian Chang Technology Co LTD;2;
 ;;Shanghai Jian Chang Colorfilm 400;Respooled cine film ?;?;2;;2024;;Shanghai Jian Chang Technology Co LTD;2;ShangaiJianColor400.jpg
 ;;Shanghai Jian Chang GP3 100 Pan Film - 35mm;35mm version in collaboration with Orwo/Inoviscoat. Said to be original GP3 formula coated in EU, but could be rebranded UN54...;Inoviscoat/Shanghai Jian Cheng Technology Co. LTD;2;Made in Germany ?;2019 (135), 2020 (120, 220);;Shanghai Jian Chang Technology Co LTD;2;ShanghaiGP3-100.jpg
 ;;Shanghai Jian Chang GP3 400 Pan Film - 35mm;35mm version in collaboration with Orwo/Inoviscoat ? Could be rebranded N74+...;Inoviscoat/Shanghai Jian Cheng Technology Co. LTD;2;Made in Germany ?;2019 (135), 2020 (120, 220);;Shanghai Jian Chang Technology Co LTD;2;ShanghaiGP3-400.jpg
@@ -7711,7 +7746,7 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;Shanghai Panchromatic Film;;SMPIC Photosensitive Materials Factory;;Made in China;;;;0;ShanghaiPanchro.jpg
 ;;Sharp Ultra CGT;;;;;;;;0;
 ;;Shell Colour Film – ASA 64;Unknown;Unknown;;;1970;;Shell Film Service, GB;0;ShellColour64ASA.jpg
-1408;014080;SHENGUANG;Chinese emulsion. All SMPIC films have same DX…;Shanghai General Photosensitive Film Factory;;Made in China;;;;0;
+1408;014080;SHENGUANG (original);Chinese emulsion. All SMPIC films have same DX…;Shanghai General Photosensitive Film Factory;;Made in China;;;;0;
 ;;Shinkó Chrome Film 新興クロームフィルム Shinko ;;;;Made in Japan ?;;;;0;ShinkoChrome.jpg
 ;;SHJC Film Lab 5203 50D;Kodak 5203 VISION3 50D, ECN-2 process (remjet);Kodak;4;;2022 ?;;JIAN CHENG FILM Store ?, China;1;
 ;;SHJC Film Lab 5207 250D;Kodak 5207 VISION3 250D, ECN-2 process (remjet);Kodak;4;;2022 ?;;JIAN CHENG FILM Store ?, China;1;
@@ -7848,7 +7883,7 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;Sun Film Panchro;;;;Made in Japan ?;;;Sun Film Co, Tokyo;0;SunFilmPan.jpg
 ;;SUNBATH Kodak Vision3 250D;Hand rolled Kodak Vision 3, ECN-2 process;Kodak;4;;;;Sunbath Film-Lab, France;1;
 1395;013954;Sunny color print film ISO 100;"""This product inherits three new patent technologies which developed by Ferrania Imaging Technologies"". Ferrania Solaris finished in China";Hua Tian Fu Photo Materials Co. Ltd ?;3;Made in China ?;2004;;;0;SunnyColorPrint.jpg
-1395;013980;Sunny color print film ISO 200;"Incertain DX number… ""This product inherits three new patent technologies which developed by Ferrania Imaging Technologies"". Ferrania Solaris finished in China. Could be still produced by Huatianfu Industrial Development Co Ltd of Shantou";Hua Tian Fu Photo Materials Co. Ltd ?;3;Made in China ?;2004;;;1;
+1395;013980;Sunny color print film ISO 200;"uncertain DX number… ""This product inherits three new patent technologies which developed by Ferrania Imaging Technologies"". Ferrania Solaris finished in China. Could be still produced by Huatianfu Industrial Development Co Ltd of Shantou";Hua Tian Fu Photo Materials Co. Ltd ?;3;Made in China ?;2004;;;1;
 ;;SUPA Film Medium Speed;;;;;~40’s ?;;;0;SupaFilmMedium.jpg
 ;;SupaSnaps 100 Colour print film (blue box);Agfacolor HDC plus;Agfa-Gevaert;2;made in EU;90’s ?;1999 ?;Unknown, UK;0;SupaSnapsColour100blue.jpg
 ;;SupaSnaps 200 Colour print film;Agfacolor HDC plus;Agfa-Gevaert;3;made in EU;80's;90’s ?;Unknown, UK;0;Supasnaps200.jpg
@@ -8365,7 +8400,7 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;Ultrafine Xtreme 120 / 100 iso #extreme;Kentmere 100 ?;;1;Made in UE;~2010 ?;;Ultrafineonline;2;ultrafineex100.jpg
 ;;Ultrafine Xtreme 120 / 400 iso #extreme;Kentmere 400 ?;;1;Made in UE;~2010 ?;;Ultrafineonline;2;ultrafineex400.jpg
 ;;Ultrafine Xtreme 135 / 100 iso #extreme;Kentmere 100, only in bulk roll;;2;Made in UE;~2010 ?;;Ultrafineonline;2;
-1770;;Ultrafine Xtreme 135 / 400 iso #extreme;Kentmere 400, only in bulk roll;;2;Made in UE;~2010 ?;;Ultrafineonline;2;
+1770;017708;Ultrafine Xtreme 135 / 400 iso #extreme;Kentmere 400, only in bulk roll;;2;Made in UE;~2010 ?;;Ultrafineonline;2;
 ;;Ultrafineoneline Agfa Cinerex IC1N;Agfa Cinerex IC1N. Medical orthochromatic film;Agfa Gevaert NV;4;Made in Belgium;;;Ultrafine / Photo warehouse USA;0;
 ;;UMG Dental X-ray Film DS-58 #xray DS58;;;;;;;Umg Medical Imaging;1;
 ;;UncleFilm Daylight Color Negative Film 5207 250D;ECN-2 process (remjet). Kodak motion picture film VISION3 250D;Kodak;4;Made in USA, Assembled in China;;;UncleFilm;1;
@@ -8502,6 +8537,7 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;"Washi Film ""A"" Leader Film";"""black & white film used as leader and protection during the reproduction process of motion picture films"". Could be Orwo LF 10";Unknown;0;Unknown;2017;;;2;
 ;;"Washi Film ""B""";generic medical radiography and has been converted to regular sizes. Being sensitive only to blue light.;Unknown;;Unknown;2017;2019 ?;;0;
 ;;"Washi Film ""D"" or ""SPUTNIK"" Aerial surveillance film";"""coated for aerial surveillance and cartography"". Could be Tasma Type 25L or 42L / Astrum ZT-8 (source of the Sputnik name? Also in technical sheet : ""Used by Russian space industry for aerial surveillance""). Discontinued because of the war situation in Ukraine";;0;Unknown;2017;2022;;0;
+;;"Washi Film ""E"" Printed circuit board film";Industrial film used for printed circuit boards. Only sheet-film and 120 format.;;0;Unknown;2024;;;1;
 ;;"Washi Film ""F"" Medical Fluorographic X-ray film";"""Medical Fluorographic X-ray film. without anti-halation layer"". ISO 100";;;Unknown;2018;;;2;
 ;;"Washi Film ""G""";generic medical radiography and has been converted to regular sizes. Being sensitive only to blue and green lights;;;Unknown;2017;2019 ?;;0;
 ;;"Washi Film ""I"" Industrial X-Ray #xray";Industrial x-ray film with thick blue polyester base double coated whitout anti-halation layer;;;Unknown;2022 ?;;;0;
@@ -8620,8 +8656,8 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;Yashica ColorChrome ISO 50;Ansco ?;;;;;;SEEADLER OPTIK ?;0;
 ;;Yashica Y16 B&W ISO 100;;;;Made in Japan;;;Yashica Co LTD;0;YashicaY16.jpg
 ;;Yes!Star Dental X-ray Film #xray;;Fuji ?;2;Made in Japan;;;Yes!Star (China);2;
-0625;;Yes!Star Supreme 200;Fuji Superia C200;Guangxi Giant Star Medical Equipment Co Ltd (under Fujifilm licence);3;China;2024;;Yes!Star (China);1;YesStar200.jpg
-0628;106284;Yes!Star Supreme 400;Fuji Superia C400 (X-TRA?);Guangxi Giant Star Medical Equipment Co Ltd (under Fujifilm licence);3;China;2024;;Yes!Star (China);1;YesStar400.jpg
+0625;106250;Yes!Star Supreme 200;Fuji Superia C200. Also available under the brand Fujifilm for international market;Guangxi Giant Star Medical Equipment Co Ltd (under Fujifilm licence);3;China;2024;;Yes!Star (China);2;YesStar200.jpg
+0628;106284;Yes!Star Supreme 400;Fuji Superia C400 (X-TRA?). Also available under the brand Fujifilm for international market;Guangxi Giant Star Medical Equipment Co Ltd (under Fujifilm licence);3;China;2024;;Yes!Star (China);2;YesStar400.jpg
 ;;YKLCOLOR Super HG ll 100 #SHGII100 S-HGII100;;;;;;;YKL Color, Filipina;0;
 ;;YKLCOLOR Super HR ll 100 ##SHRII100 S-HRII100;;;;;;;YKL Color, Filipina;0;
 ;;Yodica / elvislivesroma Nerone;"Limited edition. Cheap ISO 400 Pre Exposed film : ""NERONE is the fruit of the collaboration between YODICA and @elvislivesroma.""";;;;2019;;Marco Barbereschi and Cinzia Cancedda, Milano (IT);2;
