@@ -20,4 +20,8 @@ If you remix, transform, or build upon the material, **you must distribute your 
 
 The Big Film Database (dxdatabase) © 2018 by Dxdatabase is [licensed under Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-Please note that for the film box images, the copyright belongs to their respective owners and they are only available under "fair use."
+Please note that for the film box images, the copyright belongs to their respective owners and are only available under "fair use."
+
+# Install
+
+You only need a web server with PHP. Download "Website crappy code" into a folder and "images" as a subfolder. Open index.php in your favorite browser.
