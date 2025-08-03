@@ -24,4 +24,4 @@ Please note that for the film box images, the copyright belongs to their respect
 
 # Install
 
-You only need a web server with PHP. Download "Website crappy code" into a folder and "images" as a subfolder. Open index.php in your favorite browser.
+You only need a web server with PHP. Download "Website crappy code" and the file film_database.csv into a folder. Get "images" as a subfolder. Open index.php in your favorite browser.
