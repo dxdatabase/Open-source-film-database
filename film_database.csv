@@ -2860,7 +2860,7 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 0200;002007;FUJICOLOR SUPERIA VENUS 400;Japanese market only. Improved X-tra 400 ?;;;Made in Japan;2003;;;1;FujiVenus400.jpg
 0633;006330;FUJICOLOR SUPERIA VENUS 800;Japanese market only, same or improved Superia X-tra 800;;;Made in Japan;2003;;;0;FujiSuperiaVenus800First.jpg
 0635;006354;FUJICOLOR SUPERIA VENUS 800;Japanese market only, same or improved Superia 800;;;Made in Japan;2003;;;0;SuperiaVenus800.jpg
-0635;006357;FUJICOLOR SUPERIA VENUS 800;New version is SUPERIA 800 ? batch Y72304 (Exp. 2019) - Japanese market only;;;Made in Japan;2017 ?;Dec 2019;;1;SuperiaVenus800.jpg
+0635;006357;FUJICOLOR SUPERIA VENUS 800;New version is SUPERIA 800 ? batch Y72304 (Exp. 2019) - Japanese market only;;;Made in Japan;2017 ?;Dec 2019;;0;SuperiaVenus800.jpg
 0561;005613;Fujicolor Superia X-Tra 400 #XTRA400;;;;Made in Japan;;;;0;FujiSuperiaXtra400.jpg
 0562;005623;Fujicolor Superia X-Tra 400 #XTRA400;;;;Made in Japan;;;;0;FujiSuperiaXtra400.jpg
 0628;106283;Fujicolor Superia X-tra 400 #XTRA400;;;;;;;;0;FujiSuperiaXtra400.jpg
@@ -2869,7 +2869,7 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 0626;206263;Fujicolor Superia X-tra 400 #XTRA400;;;;;;;;0;FujiSuperiaXtra400.jpg
 0628;206283;Fujicolor Superia X-tra 400 #XTRA400;;;;;;;;0;FujiSuperiaXtra400.jpg
 0197;601973;Fujicolor Superia X-tra 400 #XTRA400;;;;Made in Japan;;;;0;FujiSuperiaXtra400.jpg
-0581;005813;Fujicolor Superia X-Tra 400 0626;;;;Made in Japan;;;;1;FujiSuperiaXtra400.jpg
+0581;005813;Fujicolor Superia X-Tra 400 0626;;;;Made in Japan;;;;0;FujiSuperiaXtra400.jpg
 0197;001970;FUJICOLOR SUPERIA X-TRA 400 CH 4th color layer #XTRA400 X-TRA400;;;;Made in Japan;;2024;;0;FujiSuperiaXtra400.jpg
 0200;502003;Fujicolor Superia X-tra 400 Costco branded film #XTRA400;;;;Made in Japan;;;;0;FujiXtra400Costco.jpg
 0197;601973;Fujicolor Superia X-tra 400 Wal-mart branded film #walmart XTRA400;;;;Made in Japan;;;;0;FujiXtra400Walmart.jpg
@@ -6545,6 +6545,8 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;MotiPix Kodak 5289 35 mm x 36 Exp Motion Picture ECN-2 Process Film 800T;Vintage Kodak 5289 (Motion film with remjet);;4;;~2018 ?;;Ultrafine / Photo warehouse USA;0;
 ;;MotiPix Kodak 5293 35 mm x 36 Exp Motion Picture ECN-2 Process Film 200T;Vintage Kodak 5293 (Motion film with remjet);;4;;~2018 ?;;Ultrafine / Photo warehouse USA;0;
 ;;MotiPix Kodak 5298 35 mm x 36 Exp Motion Picture ECN-2 Process Film 500T;Vintage Kodak 5298 (Motion film with remjet);;4;;~2018 ?;;Ultrafine / Photo warehouse USA;0;
+;;Ilford ILFOCOLOR Vintage Tone 400 Plus;Chinese film ? Could be NC500 repacked in China…;??;1;;2024 ?;;Ilford Imaging Europe GmbH (Germany, not Ilford Photo England);1;IlfordIlfocolor400PlusVintageTone.jpg
+;;Ilford ILFOCOLOR Vintage Tone 400;Chinese film ? Could be NC500 repacked in China…;??;1;;2022 ?;;Ilford Imaging Europe GmbH (Germany, not Ilford Photo England);1;IlfordIlfocolor400VintageTone.jpg
 ;;MOTOFOTO En Time Super HQ100;;;;;;;Moto Foto (Sweden);0;
 1852;018523;MOTOPHOTO Super Color 100;PERUTZ SC 100 Color;Agfa;3;Made in Germany;;;Moto Photo;0;
 ;;Müller Augenclick;Fujicolor Superia;Fujifilm;3;;2004;;Müller Drogerie;0;
