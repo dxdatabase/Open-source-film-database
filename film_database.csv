@@ -2484,6 +2484,7 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 0625;206254;Fuji Fujicolor ProPlus II 200;Fujicolor C200 for emergent market ? Only by pack of 3 or 5;;2;;;;;0;FujiProplusII200.jpg
 ;;Fuji FujiColor Quality 100;Superia 100 made in Brazil;;2;Made in Brazil;;;Fuji photo film do Brasil ltda ?;0;FujiQuality100.jpg
 ;;Fuji FujiColor Quality II 100;Low quality (quality II) Fujicolor (Superia?) made in Brazil.;;2;Made in Brazil;;;Fuji photo film da Amazonia ltda ?;0;FujiQualityII100.jpg
+1558;715587;Fuji Fujicolor Quicksnap ISO 400;Kodak Color Negative 400. Found in Fujifilm QuickSnap disposable cameras, 27 exposures. ;Kodak;2;Made in USA, disposable camera;;;Fujifilm;1;FujiQuicksnap400.jpg
 0570;605703;Fuji Fujicolor Quicksnap ISO 400 No DX coding, white;Disposable camera. FUJICOLOR SUPER 400 ;Fuji;3;Made in Japan;;;;0;FujiQuickSnap400noDXwhite.jpg
 ;;Fuji Fujicolor Quicksnap Panorama Super HG400 ;Disposable camera. Super HG 400;Fuji;3;Made in Japan;;;;0;
 ;;Fuji Fujicolor R100 #r-100;;;;Made in Japan;1961;1966;;0;FujicolorR100.jpg
@@ -3394,6 +3395,8 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;Ilford Ilfocolor MKII Colour Film;;Ilford / Imperial Chemical Industries Ltd.;;Made in UK;1962;1965;;0;IlfocolorMKI.jpg
 0273;002734;Ilford Ilfocolor Super HR100;Agfa Emulsion;Agfa;2;;1988 ?;90’s ?;Ilford Limited / CIBA;0;IlfocolorSuperHR100.jpg
 ;;Ilford Ilfocolor Super HR100;;;;Made In ECC;1988 ?;;Ilford Limited / CIBA;0;ilfocolorsuper
+;;Ilford ILFOCOLOR Vintage Tone 400;Chinese film ? Could be NC500 repacked in China…;??;1;;2022 ?;;Ilford Imaging Europe GmbH (Germany, not Ilford Photo England);1;IlfordIlfocolor400VintageTone.jpg
+;;Ilford ILFOCOLOR Vintage Tone 400 Plus;Chinese film ? Could be NC500 repacked in China…;??;1;;2024 ?;;Ilford Imaging Europe GmbH (Germany, not Ilford Photo England);1;IlfordIlfocolor400PlusVintageTone.jpg
 ;;Ilford Ilfoline IN.3 (.003 acetate base) #IN3;High contrast Low Speed Copy Film, Ortho;Ilford ltd;;Made in UK;~1969 ?;;;0;
 ;;Ilford Ilfoline IN.4 (.004 acetate base) #IN4;High contrast Low Speed Copy Film, Ortho;Ilford ltd;;Made in UK;~1969 ?;;;0;
 ;;Ilford Ilfoline IN.5 (.005 acetate base) #IN5;High contrast Low Speed Copy Film, Ortho;Ilford ltd;;Made in UK;~1969 ?;;;0;
@@ -6545,8 +6548,6 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;MotiPix Kodak 5289 35 mm x 36 Exp Motion Picture ECN-2 Process Film 800T;Vintage Kodak 5289 (Motion film with remjet);;4;;~2018 ?;;Ultrafine / Photo warehouse USA;0;
 ;;MotiPix Kodak 5293 35 mm x 36 Exp Motion Picture ECN-2 Process Film 200T;Vintage Kodak 5293 (Motion film with remjet);;4;;~2018 ?;;Ultrafine / Photo warehouse USA;0;
 ;;MotiPix Kodak 5298 35 mm x 36 Exp Motion Picture ECN-2 Process Film 500T;Vintage Kodak 5298 (Motion film with remjet);;4;;~2018 ?;;Ultrafine / Photo warehouse USA;0;
-;;Ilford ILFOCOLOR Vintage Tone 400 Plus;Chinese film ? Could be NC500 repacked in China…;??;1;;2024 ?;;Ilford Imaging Europe GmbH (Germany, not Ilford Photo England);1;IlfordIlfocolor400PlusVintageTone.jpg
-;;Ilford ILFOCOLOR Vintage Tone 400;Chinese film ? Could be NC500 repacked in China…;??;1;;2022 ?;;Ilford Imaging Europe GmbH (Germany, not Ilford Photo England);1;IlfordIlfocolor400VintageTone.jpg
 ;;MOTOFOTO En Time Super HQ100;;;;;;;Moto Foto (Sweden);0;
 1852;018523;MOTOPHOTO Super Color 100;PERUTZ SC 100 Color;Agfa;3;Made in Germany;;;Moto Photo;0;
 ;;Müller Augenclick;Fujicolor Superia;Fujifilm;3;;2004;;Müller Drogerie;0;
