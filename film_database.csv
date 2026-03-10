@@ -3087,8 +3087,7 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 ;;Harman Holo FX Red Sensitive Plates #holographic;Holographic Plates Specialty Film;Harman;;;;;;2;
 1681;016814;Harman Phoenix ISO 200 #ilford;C-41;Harman Technology;;Made in Mobberley, England;Dec 2023;;Harman Technology;2;HarmanPhoenix200.jpg
 1681;016814;Harman RED ISO 125 #ilford;Inverted Harman Phoenix for redscale effect ? C-41;Harman Technology;;Made in Mobberley, England;Feb. 2025;;Harman Technology;2;HarmanRed.jpg
-1683;016834;Harman Phoenix II ISO 200 #ilford phoenix 2;C-41;Harman Technology;;Made in Mobberley, England;Jul 2025;;Harman Technology;2;HarmanPhoenixII.jpg
-1683;017765;Harman Phoenix II ISO 200 (cassette DX) #ilford phoenix 2;Alternative DX code on cassette, film edge barcode is 105-3;Harman Technology;;Made in Mobberley, England;Jul 2025;;Harman Technology;2;HarmanPhoenixII.jpg
+1683;017765;Harman Phoenix II ISO 200 #ilford phoenix 2;Film edge DX number – 105-3;Harman Technology;;Made in Mobberley, England;Jul 2025;;Harman Technology;2;HarmanPhoenixII.jpg
 1688;016884;Harman Switch Azure ISO 125 #ilford;Emulsion dye swap cyan/yellow (like Lomo Turquoise);Harman Technology;;Made in Mobberley, England;Mar 2026;;Harman Technology;2;HarmanSwitchAzure.jpg
 ;;Harriscolor;;;;;1929;;;0;
 ;;Hauff Color;Perutz Color C 18 (16 DIN);Perutz;3;;1961;1961;Hauff;0;
