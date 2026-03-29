@@ -3085,8 +3085,10 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 0756;007560;Happy Color negative film ISO 200;Agfa Color XRG;;4;;;;Happy-Foto;0;HappyColor200.jpg
 ;;Harman Holo FX Green Sensitive Plates #holographic;Holographic Plates Specialty Film;Harman;;;;;;2;
 ;;Harman Holo FX Red Sensitive Plates #holographic;Holographic Plates Specialty Film;Harman;;;;;;2;
-1681;016814;Harman Phoenix ISO 200 Colour Film #ilford;C-41;Harman Technology;;Made in Mobberley, England;Dec 2023;;Harman Technology;2;HarmanPhoenix200.jpg
-1681;016814;Harman RED ISO 125 Colour Film #ilford;Inverted Harman Phoenix for redscale effect ? C-41;Harman Technology;;Made in Mobberley, England;Feb. 2025;;Harman Technology;2;HarmanRed.jpg
+1681;016814;Harman Phoenix ISO 200 #ilford;C-41;Harman Technology;;Made in Mobberley, England;Dec 2023;;Harman Technology;2;HarmanPhoenix200.jpg
+1681;016814;Harman RED ISO 125 #ilford;Inverted Harman Phoenix for redscale effect ? C-41;Harman Technology;;Made in Mobberley, England;Feb. 2025;;Harman Technology;2;HarmanRed.jpg
+1683;017765;Harman Phoenix II ISO 200 #ilford phoenix 2;Film edge DX number – 105-3;Harman Technology;;Made in Mobberley, England;Jul 2025;;Harman Technology;2;HarmanPhoenixII.jpg
+1688;016884;Harman Switch Azure ISO 125 #ilford;Emulsion dye swap cyan/yellow (like Lomo Turquoise);Harman Technology;;Made in Mobberley, England;Mar 2026;;Harman Technology;2;HarmanSwitchAzure.jpg
 ;;Harriscolor;;;;;1929;;;0;
 ;;Hauff Color;Perutz Color C 18 (16 DIN);Perutz;3;;1961;1961;Hauff;0;
 ;;Hauff Pancola 17 (17/10° DIN);;;;;30’s;;;0;HauffPancola17.jpg
@@ -4641,6 +4643,7 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 1527;015270;Kodak Kodacolor VR400 Plus VR400-3 VR400+ #vr400plus vr+;Variant of Kodak Farbwelt/Gold, for EU discount stores ?;;1;;90's;;;0;KodacolorVRplus400.jpg
 1537;615374;Kodak Kodacolor VR400 Plus VR400+ (First version?) #vr400plus;Variant of Kodak Farbwelt/Gold, for EU discount stores ?;;1;;1986 ?;End of 2000’s ??;;0;
 1537;715374;Kodak Kodacolor VR400 Plus VR400+ #vr400plus;Variant of Kodak Farbwelt/Gold, for EU discount stores ?;Kodak Pathé ?;1;Made in France ?;;End of 2000’s ?;;0;KodacolorVRplus400.jpg
+1457;514574;Kodak Kodacolor 100 (new, Eastman);Kodak 100-8 (not ProImage), released for US market;Eastman Kodak;3;Made in USA;Oct 2025;;Eastman Kodak;2;Kodacolor100-New.jpg
 ;;Kodak Kodacolor-X Color Negative Film CX (C-22);;;;;1963 (135), 1964 (rolls);1965;;0;KodacolorX.jpg
 ;;Kodak Kodacolor-X Color Negative Film CX (C-22) ASA 80;Speed re-rated 80 after change in ASA standard, no film change;;;;1965;1974;;0;KodacolorX.jpg
 ;;Kodak KODAGRAPH Autopositive – code 2576;;;;;;;;0;
