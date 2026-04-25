@@ -5929,8 +5929,8 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 0802;008020;KONICA LV400;;;;;1994;;;0;KonicaLV400.jpg
 0425;004257;KONICA MINI / FiLM>iN FiLMiN 400;Centuria Super 400 24+3 exp. Disposable camera.;Konica Corporation;4;Made in Japan;2007 ?;;;0;KonicaMiniFilmIn400.jpg
 ;;"KONICA MINOLTA ""Natural Beauty"" 400M";;;;;;;;0;KonicaNaturalBeauty400M.jpg
-;;"Konica Minolta Business ""industrial"" Color Film CT100 業務用カラーフィルム100";Centuria 100 ?;Konica Minolta;1;;;;;0;KonicaBusiness100.jpg
-;;"Konica Minolta Business ""industrial"" Color Film CT400N 業務用カラーフィルム400";Centuria 400 ?;Konica Minolta;1;;;;;0;KonicaBusiness400.jpg
+0423;004233;"Konica Minolta Business ""industrial"" Color Film CT100 業務用カラーフィルム100";Centuria 100;Konica Minolta;3;;;;;0;KonicaBusiness100.jpg
+0416;004163;"Konica Minolta Business ""industrial"" Color Film CT400N 業務用カラーフィルム400";Centuria 400;Konica Minolta;3;;;;;0;KonicaBusiness400.jpg
 ;;Konica Minolta MG-SR Plus X-ray film #xray;Xray;;;;;;;0;
 ;;Konica Minolta PAN100 B&W #KP100;;;;Made in Japan;~2006;~2010 ??;Konica Minolta;0;
 ;;Konica Minolta PAN200 B&W #KP200;;;;Made in Japan;~2006;~2010 ??;Konica Minolta;0;
@@ -6238,6 +6238,7 @@ DX extract;DX full;Name;Original Film or informations;Manufacturer;reliability;C
 1600;016000;LUCKY COLOR SUPER 100 NEW #LuckyColor;;China Lucky Film Corporation;;Made in China;;;;0;LuckyColor100SuperNew.jpg
 1606;016060;LUCKY COLOR SUPER 200 #LuckyColor;;China Lucky Film Corporation;;Made in China;;;;0;LuckyColorSuper200.jpg
 1606;016060;LUCKY COLOR SUPER 200 NEW #LuckyColor;;China Lucky Film Corporation;;Made in China;;2017;;0;LuckyColor200SuperNew.jpg
+1606;016164;LUCKY COLOR SUPER 200 (2025 edition);;China Lucky Film Corporation;;Made in China;2025;;;2;LuckyColor200Edition2025.jpg
 1604;016040;LUCKY COLOR SUPER 200 NEW #LuckyColor SUPERNEW200;;China Lucky Film Corporation;;Made in China;;2017;;0;LuckySuper200New.jpg
 1608;016080;LUCKY COLOR SUPER 400 #LuckyColor;;China Lucky Film Corporation;;Made in China;;;;0;
 1609;016090;LUCKY COLOR SUPER GBR Plus 100 #LuckyColor;;China Lucky Film Corporation;;Made in China;;;;0;
